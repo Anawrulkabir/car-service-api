@@ -1,0 +1,902 @@
+[
+    {
+        "brand": "Ford",
+        "year": 2021,
+        "price": 54744,
+        "category": "Sedan",
+        "description": "A luxury car offering an exceptional driving experience.",
+        "quantity": 17,
+        "inStock": false
+    },
+    {
+        "brand": "Tesla",
+        "year": 2021,
+        "price": 49119,
+        "category": "Truck",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 9,
+        "inStock": true
+    },
+    {
+        "brand": "Honda",
+        "year": 2023,
+        "price": 23964,
+        "category": "Coupe",
+        "description": "An electric car with cutting-edge technology.",
+        "quantity": 11,
+        "inStock": true
+    },
+    {
+        "brand": "Ford",
+        "year": 2021,
+        "price": 56572,
+        "category": "Convertible",
+        "description": "A stylish car with top-notch features.",
+        "quantity": 13,
+        "inStock": false
+    },
+    {
+        "brand": "Honda",
+        "year": 2021,
+        "price": 39558,
+        "category": "Coupe",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 15,
+        "inStock": false
+    },
+    {
+        "brand": "Audi",
+        "year": 2020,
+        "price": 36452,
+        "category": "Truck",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 1,
+        "inStock": true
+    },
+    {
+        "brand": "Honda",
+        "year": 2017,
+        "price": 44176,
+        "category": "Sedan",
+        "description": "A reliable and fuel-efficient vehicle.",
+        "quantity": 9,
+        "inStock": false
+    },
+    {
+        "brand": "Nissan",
+        "year": 2015,
+        "price": 38510,
+        "category": "Coupe",
+        "description": "A sleek and sporty design.",
+        "quantity": 9,
+        "inStock": false
+    },
+    {
+        "brand": "Ford",
+        "year": 2023,
+        "price": 51136,
+        "category": "Sedan",
+        "description": "A reliable and fuel-efficient vehicle.",
+        "quantity": 18,
+        "inStock": true
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "year": 2022,
+        "price": 30756,
+        "category": "Convertible",
+        "description": "A stylish car with top-notch features.",
+        "quantity": 8,
+        "inStock": true
+    },
+    {
+        "brand": "Ford",
+        "year": 2022,
+        "price": 29304,
+        "category": "Convertible",
+        "description": "A stylish car with top-notch features.",
+        "quantity": 9,
+        "inStock": false
+    },
+    {
+        "brand": "Audi",
+        "year": 2020,
+        "price": 25817,
+        "category": "Truck",
+        "description": "A luxury car offering an exceptional driving experience.",
+        "quantity": 12,
+        "inStock": false
+    },
+    {
+        "brand": "Chevrolet",
+        "year": 2015,
+        "price": 46920,
+        "category": "Convertible",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 15,
+        "inStock": true
+    },
+    {
+        "brand": "BMW",
+        "year": 2020,
+        "price": 39655,
+        "category": "Sedan",
+        "description": "A spacious car perfect for families.",
+        "quantity": 2,
+        "inStock": true
+    },
+    {
+        "brand": "Ford",
+        "year": 2018,
+        "price": 40280,
+        "category": "Convertible",
+        "description": "A comfortable and convenient car for everyday use.",
+        "quantity": 19,
+        "inStock": true
+    },
+    {
+        "brand": "Nissan",
+        "year": 2022,
+        "price": 31451,
+        "category": "Truck",
+        "description": "A spacious car perfect for families.",
+        "quantity": 10,
+        "inStock": false
+    },
+    {
+        "brand": "Ford",
+        "year": 2020,
+        "price": 41822,
+        "category": "SUV",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 17,
+        "inStock": true
+    },
+    {
+        "brand": "Tesla",
+        "year": 2023,
+        "price": 18898,
+        "category": "SUV",
+        "description": "A sleek and sporty design.",
+        "quantity": 17,
+        "inStock": true
+    },
+    {
+        "brand": "Jeep",
+        "year": 2021,
+        "price": 53628,
+        "category": "Coupe",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 10,
+        "inStock": true
+    },
+    {
+        "brand": "BMW",
+        "year": 2020,
+        "price": 39473,
+        "category": "SUV",
+        "description": "A reliable and fuel-efficient vehicle.",
+        "quantity": 20,
+        "inStock": false
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "year": 2020,
+        "price": 39310,
+        "category": "Truck",
+        "description": "A luxury car offering an exceptional driving experience.",
+        "quantity": 3,
+        "inStock": true
+    },
+    {
+        "brand": "BMW",
+        "year": 2021,
+        "price": 58736,
+        "category": "Coupe",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 12,
+        "inStock": true
+    },
+    {
+        "brand": "Toyota",
+        "year": 2016,
+        "price": 53484,
+        "category": "Coupe",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 9,
+        "inStock": false
+    },
+    {
+        "brand": "BMW",
+        "year": 2016,
+        "price": 29512,
+        "category": "Coupe",
+        "description": "A spacious car perfect for families.",
+        "quantity": 8,
+        "inStock": true
+    },
+    {
+        "brand": "Toyota",
+        "year": 2020,
+        "price": 53238,
+        "category": "Convertible",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 12,
+        "inStock": true
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "year": 2015,
+        "price": 48631,
+        "category": "Convertible",
+        "description": "A luxury car offering an exceptional driving experience.",
+        "quantity": 14,
+        "inStock": true
+    },
+    {
+        "brand": "BMW",
+        "year": 2015,
+        "price": 44103,
+        "category": "Convertible",
+        "description": "A comfortable and convenient car for everyday use.",
+        "quantity": 7,
+        "inStock": true
+    },
+    {
+        "brand": "Toyota",
+        "year": 2019,
+        "price": 36947,
+        "category": "Convertible",
+        "description": "A comfortable and convenient car for everyday use.",
+        "quantity": 8,
+        "inStock": false
+    },
+    {
+        "brand": "Toyota",
+        "year": 2018,
+        "price": 27684,
+        "category": "Convertible",
+        "description": "A rugged car ideal for off-road trails.",
+        "quantity": 1,
+        "inStock": true
+    },
+    {
+        "brand": "Nissan",
+        "year": 2023,
+        "price": 21969,
+        "category": "SUV",
+        "description": "A luxury car offering an exceptional driving experience.",
+        "quantity": 7,
+        "inStock": false
+    },
+    {
+        "brand": "Audi",
+        "year": 2019,
+        "price": 39859,
+        "category": "Convertible",
+        "description": "A spacious car perfect for families.",
+        "quantity": 4,
+        "inStock": true
+    },
+    {
+        "brand": "Audi",
+        "year": 2019,
+        "price": 43738,
+        "category": "Truck",
+        "description": "A spacious car perfect for families.",
+        "quantity": 11,
+        "inStock": false
+    },
+    {
+        "brand": "Jeep",
+        "year": 2021,
+        "price": 37612,
+        "category": "Coupe",
+        "description": "A powerful vehicle with modern amenities.",
+        "quantity": 4,
+        "inStock": false
+    },
+    {
+        "brand": "BMW",
+        "year": 2019,
+        "price": 52292,
+        "category": "SUV",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 17,
+        "inStock": false
+    },
+    {
+        "brand": "Honda",
+        "year": 2017,
+        "price": 32269,
+        "category": "SUV",
+        "description": "A powerful vehicle with modern amenities.",
+        "quantity": 17,
+        "inStock": true
+    },
+    {
+        "brand": "Chevrolet",
+        "year": 2022,
+        "price": 30792,
+        "category": "Sedan",
+        "description": "A rugged car ideal for off-road trails.",
+        "quantity": 7,
+        "inStock": false
+    },
+    {
+        "brand": "Ford",
+        "year": 2019,
+        "price": 21271,
+        "category": "Sedan",
+        "description": "A reliable and fuel-efficient vehicle.",
+        "quantity": 10,
+        "inStock": false
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "year": 2016,
+        "price": 28030,
+        "category": "Coupe",
+        "description": "A reliable and fuel-efficient vehicle.",
+        "quantity": 19,
+        "inStock": true
+    },
+    {
+        "brand": "Ford",
+        "year": 2021,
+        "price": 18452,
+        "category": "SUV",
+        "description": "A luxury car offering an exceptional driving experience.",
+        "quantity": 13,
+        "inStock": true
+    },
+    {
+        "brand": "Tesla",
+        "year": 2022,
+        "price": 43474,
+        "category": "Sedan",
+        "description": "A powerful vehicle with modern amenities.",
+        "quantity": 6,
+        "inStock": true
+    },
+    {
+        "brand": "BMW",
+        "year": 2016,
+        "price": 44467,
+        "category": "Truck",
+        "description": "A reliable and fuel-efficient vehicle.",
+        "quantity": 18,
+        "inStock": true
+    },
+    {
+        "brand": "Jeep",
+        "year": 2015,
+        "price": 17210,
+        "category": "Coupe",
+        "description": "A luxury car offering an exceptional driving experience.",
+        "quantity": 15,
+        "inStock": false
+    },
+    {
+        "brand": "Tesla",
+        "year": 2018,
+        "price": 59353,
+        "category": "Truck",
+        "description": "A rugged car ideal for off-road trails.",
+        "quantity": 20,
+        "inStock": false
+    },
+    {
+        "brand": "BMW",
+        "year": 2020,
+        "price": 35121,
+        "category": "Convertible",
+        "description": "A comfortable and convenient car for everyday use.",
+        "quantity": 4,
+        "inStock": true
+    },
+    {
+        "brand": "Audi",
+        "year": 2016,
+        "price": 30218,
+        "category": "SUV",
+        "description": "A luxury car offering an exceptional driving experience.",
+        "quantity": 4,
+        "inStock": false
+    },
+    {
+        "brand": "Nissan",
+        "year": 2020,
+        "price": 40148,
+        "category": "Convertible",
+        "description": "A sleek and sporty design.",
+        "quantity": 11,
+        "inStock": false
+    },
+    {
+        "brand": "Jeep",
+        "year": 2018,
+        "price": 15471,
+        "category": "Truck",
+        "description": "A rugged car ideal for off-road trails.",
+        "quantity": 16,
+        "inStock": true
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "year": 2022,
+        "price": 30513,
+        "category": "SUV",
+        "description": "A powerful vehicle with modern amenities.",
+        "quantity": 5,
+        "inStock": true
+    },
+    {
+        "brand": "Honda",
+        "year": 2023,
+        "price": 15911,
+        "category": "SUV",
+        "description": "A rugged car ideal for off-road trails.",
+        "quantity": 10,
+        "inStock": false
+    },
+    {
+        "brand": "Jeep",
+        "year": 2019,
+        "price": 55954,
+        "category": "Truck",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 3,
+        "inStock": false
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "year": 2018,
+        "price": 59769,
+        "category": "Convertible",
+        "description": "A stylish car with top-notch features.",
+        "quantity": 11,
+        "inStock": true
+    },
+    {
+        "brand": "Honda",
+        "year": 2015,
+        "price": 33328,
+        "category": "Sedan",
+        "description": "A comfortable and convenient car for everyday use.",
+        "quantity": 9,
+        "inStock": false
+    },
+    {
+        "brand": "Nissan",
+        "year": 2018,
+        "price": 51696,
+        "category": "Sedan",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 18,
+        "inStock": false
+    },
+    {
+        "brand": "BMW",
+        "year": 2020,
+        "price": 46770,
+        "category": "Sedan",
+        "description": "A luxury car offering an exceptional driving experience.",
+        "quantity": 6,
+        "inStock": true
+    },
+    {
+        "brand": "Jeep",
+        "year": 2018,
+        "price": 22356,
+        "category": "Coupe",
+        "description": "An electric car with cutting-edge technology.",
+        "quantity": 18,
+        "inStock": false
+    },
+    {
+        "brand": "Tesla",
+        "year": 2016,
+        "price": 40978,
+        "category": "SUV",
+        "description": "A reliable and fuel-efficient vehicle.",
+        "quantity": 2,
+        "inStock": false
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "year": 2015,
+        "price": 17460,
+        "category": "Sedan",
+        "description": "A spacious car perfect for families.",
+        "quantity": 8,
+        "inStock": false
+    },
+    {
+        "brand": "Toyota",
+        "year": 2018,
+        "price": 54487,
+        "category": "Coupe",
+        "description": "A comfortable and convenient car for everyday use.",
+        "quantity": 9,
+        "inStock": true
+    },
+    {
+        "brand": "Ford",
+        "year": 2023,
+        "price": 38290,
+        "category": "Sedan",
+        "description": "A sleek and sporty design.",
+        "quantity": 20,
+        "inStock": true
+    },
+    {
+        "brand": "Chevrolet",
+        "year": 2018,
+        "price": 50757,
+        "category": "SUV",
+        "description": "An electric car with cutting-edge technology.",
+        "quantity": 1,
+        "inStock": false
+    },
+    {
+        "brand": "Jeep",
+        "year": 2023,
+        "price": 22002,
+        "category": "Convertible",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 1,
+        "inStock": false
+    },
+    {
+        "brand": "Jeep",
+        "year": 2019,
+        "price": 45039,
+        "category": "SUV",
+        "description": "A comfortable and convenient car for everyday use.",
+        "quantity": 8,
+        "inStock": false
+    },
+    {
+        "brand": "Toyota",
+        "year": 2022,
+        "price": 36293,
+        "category": "SUV",
+        "description": "An electric car with cutting-edge technology.",
+        "quantity": 13,
+        "inStock": true
+    },
+    {
+        "brand": "Ford",
+        "year": 2021,
+        "price": 52470,
+        "category": "Convertible",
+        "description": "A rugged car ideal for off-road trails.",
+        "quantity": 11,
+        "inStock": false
+    },
+    {
+        "brand": "BMW",
+        "year": 2022,
+        "price": 57011,
+        "category": "Coupe",
+        "description": "A luxury car offering an exceptional driving experience.",
+        "quantity": 7,
+        "inStock": false
+    },
+    {
+        "brand": "BMW",
+        "year": 2023,
+        "price": 50598,
+        "category": "Sedan",
+        "description": "A stylish car with top-notch features.",
+        "quantity": 3,
+        "inStock": false
+    },
+    {
+        "brand": "Audi",
+        "year": 2016,
+        "price": 37695,
+        "category": "Sedan",
+        "description": "A reliable and fuel-efficient vehicle.",
+        "quantity": 10,
+        "inStock": false
+    },
+    {
+        "brand": "Tesla",
+        "year": 2015,
+        "price": 59057,
+        "category": "Coupe",
+        "description": "A spacious car perfect for families.",
+        "quantity": 16,
+        "inStock": false
+    },
+    {
+        "brand": "Tesla",
+        "year": 2023,
+        "price": 29590,
+        "category": "Coupe",
+        "description": "A reliable and fuel-efficient vehicle.",
+        "quantity": 14,
+        "inStock": false
+    },
+    {
+        "brand": "Ford",
+        "year": 2021,
+        "price": 25085,
+        "category": "Coupe",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 14,
+        "inStock": true
+    },
+    {
+        "brand": "BMW",
+        "year": 2022,
+        "price": 45559,
+        "category": "Sedan",
+        "description": "A stylish car with top-notch features.",
+        "quantity": 11,
+        "inStock": false
+    },
+    {
+        "brand": "Ford",
+        "year": 2022,
+        "price": 24911,
+        "category": "Truck",
+        "description": "A powerful vehicle with modern amenities.",
+        "quantity": 3,
+        "inStock": false
+    },
+    {
+        "brand": "Ford",
+        "year": 2016,
+        "price": 18648,
+        "category": "Sedan",
+        "description": "A sleek and sporty design.",
+        "quantity": 2,
+        "inStock": false
+    },
+    {
+        "brand": "Tesla",
+        "year": 2020,
+        "price": 21145,
+        "category": "SUV",
+        "description": "A rugged car ideal for off-road trails.",
+        "quantity": 18,
+        "inStock": true
+    },
+    {
+        "brand": "Jeep",
+        "year": 2017,
+        "price": 35149,
+        "category": "Coupe",
+        "description": "An electric car with cutting-edge technology.",
+        "quantity": 20,
+        "inStock": false
+    },
+    {
+        "brand": "Toyota",
+        "year": 2018,
+        "price": 17910,
+        "category": "SUV",
+        "description": "An electric car with cutting-edge technology.",
+        "quantity": 7,
+        "inStock": true
+    },
+    {
+        "brand": "Chevrolet",
+        "year": 2020,
+        "price": 50655,
+        "category": "Coupe",
+        "description": "An electric car with cutting-edge technology.",
+        "quantity": 14,
+        "inStock": true
+    },
+    {
+        "brand": "Honda",
+        "year": 2018,
+        "price": 17903,
+        "category": "Convertible",
+        "description": "A stylish car with top-notch features.",
+        "quantity": 17,
+        "inStock": false
+    },
+    {
+        "brand": "BMW",
+        "year": 2015,
+        "price": 51247,
+        "category": "Sedan",
+        "description": "A powerful vehicle with modern amenities.",
+        "quantity": 11,
+        "inStock": false
+    },
+    {
+        "brand": "Jeep",
+        "year": 2021,
+        "price": 20486,
+        "category": "SUV",
+        "description": "A luxury car offering an exceptional driving experience.",
+        "quantity": 3,
+        "inStock": true
+    },
+    {
+        "brand": "Jeep",
+        "year": 2023,
+        "price": 17313,
+        "category": "Convertible",
+        "description": "A powerful vehicle with modern amenities.",
+        "quantity": 18,
+        "inStock": true
+    },
+    {
+        "brand": "Tesla",
+        "year": 2019,
+        "price": 48606,
+        "category": "Truck",
+        "description": "A luxury car offering an exceptional driving experience.",
+        "quantity": 20,
+        "inStock": true
+    },
+    {
+        "brand": "Honda",
+        "year": 2016,
+        "price": 50516,
+        "category": "Convertible",
+        "description": "A stylish car with top-notch features.",
+        "quantity": 10,
+        "inStock": false
+    },
+    {
+        "brand": "Jeep",
+        "year": 2021,
+        "price": 15066,
+        "category": "SUV",
+        "description": "A stylish car with top-notch features.",
+        "quantity": 14,
+        "inStock": false
+    },
+    {
+        "brand": "Chevrolet",
+        "year": 2017,
+        "price": 26806,
+        "category": "Convertible",
+        "description": "A reliable and fuel-efficient vehicle.",
+        "quantity": 15,
+        "inStock": false
+    },
+    {
+        "brand": "BMW",
+        "year": 2023,
+        "price": 48135,
+        "category": "Sedan",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 16,
+        "inStock": true
+    },
+    {
+        "brand": "Chevrolet",
+        "year": 2021,
+        "price": 43359,
+        "category": "SUV",
+        "description": "A stylish car with top-notch features.",
+        "quantity": 9,
+        "inStock": true
+    },
+    {
+        "brand": "Honda",
+        "year": 2020,
+        "price": 40521,
+        "category": "Convertible",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 12,
+        "inStock": false
+    },
+    {
+        "brand": "Ford",
+        "year": 2020,
+        "price": 32784,
+        "category": "Convertible",
+        "description": "A stylish car with top-notch features.",
+        "quantity": 6,
+        "inStock": true
+    },
+    {
+        "brand": "Jeep",
+        "year": 2019,
+        "price": 26349,
+        "category": "Convertible",
+        "description": "A stylish car with top-notch features.",
+        "quantity": 11,
+        "inStock": false
+    },
+    {
+        "brand": "Tesla",
+        "year": 2021,
+        "price": 34287,
+        "category": "Coupe",
+        "description": "A powerful vehicle with modern amenities.",
+        "quantity": 12,
+        "inStock": true
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "year": 2018,
+        "price": 56479,
+        "category": "Sedan",
+        "description": "A rugged car ideal for off-road trails.",
+        "quantity": 4,
+        "inStock": true
+    },
+    {
+        "brand": "Jeep",
+        "year": 2020,
+        "price": 39954,
+        "category": "Truck",
+        "description": "A sleek and sporty design.",
+        "quantity": 11,
+        "inStock": false
+    },
+    {
+        "brand": "Chevrolet",
+        "year": 2016,
+        "price": 59993,
+        "category": "Sedan",
+        "description": "A powerful vehicle with modern amenities.",
+        "quantity": 13,
+        "inStock": false
+    },
+    {
+        "brand": "Jeep",
+        "year": 2015,
+        "price": 39430,
+        "category": "Sedan",
+        "description": "A powerful vehicle with modern amenities.",
+        "quantity": 11,
+        "inStock": false
+    },
+    {
+        "brand": "Chevrolet",
+        "year": 2021,
+        "price": 35695,
+        "category": "Convertible",
+        "description": "A durable vehicle with exceptional performance.",
+        "quantity": 19,
+        "inStock": true
+    },
+    {
+        "brand": "Jeep",
+        "year": 2022,
+        "price": 36322,
+        "category": "Convertible",
+        "description": "A luxury car offering an exceptional driving experience.",
+        "quantity": 10,
+        "inStock": false
+    },
+    {
+        "brand": "Toyota",
+        "year": 2020,
+        "price": 33802,
+        "category": "Coupe",
+        "description": "A powerful vehicle with modern amenities.",
+        "quantity": 7,
+        "inStock": false
+    },
+    {
+        "brand": "Honda",
+        "year": 2021,
+        "price": 29445,
+        "category": "Coupe",
+        "description": "A spacious car perfect for families.",
+        "quantity": 9,
+        "inStock": true
+    },
+    {
+        "brand": "BMW",
+        "year": 2022,
+        "price": 19096,
+        "category": "Coupe",
+        "description": "A powerful vehicle with modern amenities.",
+        "quantity": 2,
+        "inStock": false
+    }
+]

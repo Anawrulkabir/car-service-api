@@ -1,20 +1,21 @@
-import cors from 'cors'
-import express, { Application, Request, Response } from 'express'
+import cors from 'cors';
+import express, { Application, Request, Response } from 'express';
+import { CarRoutes } from './app/modules/car/car.route';
 
-const app: Application = express()
+const app: Application = express();
 
 //parsers
-app.use(express.json())
-app.use(cors())
+app.use(express.json());
+app.use(cors());
 
 // application routes
-// app.use('/api/v1/cars')
-// app.use('/api/v1/orders')
+app.use('/api', CarRoutes);
+// app.use('/api', OrderRoutes)
 
 const getAController = (req: Request, res: Response) => {
-  res.send('Hello from car service backend')
-}
+  res.send('Hello from car service Api');
+};
 
-app.get('/', getAController)
+app.get('/', getAController);
 
-export default app
+export default app;
