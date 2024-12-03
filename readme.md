@@ -40,8 +40,8 @@ A modular Node.js and TypeScript backend application for managing cars and order
 ### **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/car-store.git
-cd car-store
+git clone https://github.com/Anawrulkabir/car-service-api.git
+cd car-store-api
 ```
 
 ### **2. Install dependencies**
